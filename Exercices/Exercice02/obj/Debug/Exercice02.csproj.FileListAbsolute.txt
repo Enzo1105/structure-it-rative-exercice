@@ -1,0 +1,6 @@
+K:\BTS SIO 2021_2022\BLOC 1\Développement\Clé M. Verghote\Base de la programmation\03 La structure itérative\Exercice02\bin\Debug\Exercice02.exe.config
+K:\BTS SIO 2021_2022\BLOC 1\Développement\Clé M. Verghote\Base de la programmation\03 La structure itérative\Exercice02\bin\Debug\Exercice02.exe
+K:\BTS SIO 2021_2022\BLOC 1\Développement\Clé M. Verghote\Base de la programmation\03 La structure itérative\Exercice02\bin\Debug\Exercice02.pdb
+K:\BTS SIO 2021_2022\BLOC 1\Développement\Clé M. Verghote\Base de la programmation\03 La structure itérative\Exercice02\obj\Debug\Exercice02.csproj.CoreCompileInputs.cache
+K:\BTS SIO 2021_2022\BLOC 1\Développement\Clé M. Verghote\Base de la programmation\03 La structure itérative\Exercice02\obj\Debug\Exercice02.exe
+K:\BTS SIO 2021_2022\BLOC 1\Développement\Clé M. Verghote\Base de la programmation\03 La structure itérative\Exercice02\obj\Debug\Exercice02.pdb
